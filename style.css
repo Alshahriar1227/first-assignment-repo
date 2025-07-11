@@ -189,3 +189,59 @@ main{
 .focus-button{
     margin-bottom: 20px;
 }
+.touch-section{
+    display: flex;
+    gap: 50px;
+  
+    
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+
+}
+label,input,textarea{
+    display: block;
+    width: 100%;
+}
+input,textarea{
+    padding: 10px 120px 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.touch-tittle{
+    font-size: 57px;
+    font-weight: bold;
+}
+.get-touch{
+    width: 400px;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 70px 380px;
+}
+.footer-section{
+    max-width: 558px;
+}
+.logof{
+    font-weight: bold;
+    font-size: 100px;
+    color: #4E47FF;
+}
+.footer-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #8987A1;
+}
+.footer-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-nav a{
+    text-decoration: none;
+    color: #8987A1;
+
+}
