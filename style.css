@@ -57,6 +57,7 @@ nav ul{
 main{
     padding-left: 141px;
     padding-right: 159px;
+   
     
 }
 .action{
@@ -85,4 +86,106 @@ main{
 }
 .action-image{
     border-radius: 20px;
+}
+.productive-user-container{
+    background-color: lightcyan;
+   
+    height: 306px;
+    border-radius: 10px;
+    padding: 50px 142px;
+    margin-top: 116px;
+   
+}
+.container{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    
+}
+.user-statistic{
+    display: flex;
+    justify-content: space-between;
+   text-align: center;
+}
+.user-tittle{
+    font-size: 38px;
+    font-weight: bold;
+   
+    margin-bottom: 20px;
+}
+.statistic-tittle{
+    font-size: 80px;
+    font-weight: bold;
+    color:  #4E47FF;
+}
+.user-say{
+    height: 342px;
+    border-radius: 10px;
+    
+}
+.say-tittle{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    font-size: 42px;
+    font-weight: bold;
+}
+.say-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+
+    
+}
+.say{
+    background-color: white;
+    padding: 20px 20px 50px 20px;
+    border-radius: 10px;
+    
+}
+.say-person{
+    margin-top: 24px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.image-content{
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+.image{
+   border-radius: 50%;
+}
+.say-description{
+    font-size: 24px;
+}
+.date{
+     color: #666b77;
+} 
+.user-say{
+    margin-bottom: 200px;
+}
+.focus{
+    text-align: center;
+    background-color: white;
+    padding: 71px 0px;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+.focus-image{
+    width: 800px;
+    border-radius: 20px;
+}
+.focus-tittle{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.focus-description{
+    margin-bottom: 20px;
+}
+.focus-button{
+    margin-bottom: 20px;
 }
